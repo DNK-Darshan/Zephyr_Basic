@@ -790,3 +790,5 @@ config FLASH_ADDRESS
        Application
        ↓
        Use driver API
+
+- https://chatgpt.com/share/6a292ace-e488-83ec-9b3d-d1c4b800a247
